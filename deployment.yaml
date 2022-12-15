@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: nginx-helloworld
-        image: dockerbogo/docker-nginx-hello-world
+        image: mthama/docker-nginx-hello-world
         ports:
         - containerPort: 80
